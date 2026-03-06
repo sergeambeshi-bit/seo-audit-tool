@@ -1,2 +1,12 @@
-# seo-audit-tool
-Tool that analyses web pages for SEO performance, including meta tags, headings, broken links, and page speed. Provides actionable recommendations to improve search visibility.
+# SEO Audit Tool
+Analyse website SEO performance and generate improvement recommendations.
+
+## Features
+- Page title & meta description checks
+- Heading structure analysis
+- Broken link detection
+- SEO scoring
+
+## Tech Stack
+- Python / JavaScript
+- Requests / Puppeteer
