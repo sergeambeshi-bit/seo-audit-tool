@@ -1,8 +1,6 @@
 
 ---
 
-### **2. seo-audit-tool/README.md**
-
 ```markdown
 # SEO Audit Tool
 
