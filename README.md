@@ -1,5 +1,12 @@
+
+---
+
+### **2. seo-audit-tool/README.md**
+
+```markdown
 # SEO Audit Tool
-Analyse website SEO performance and generate improvement recommendations.
+
+Tool that analyses web pages for SEO performance, including meta tags, headings, broken links, and page speed. Provides actionable recommendations to improve search visibility.
 
 ## Features
 - Page title & meta description checks
@@ -10,3 +17,9 @@ Analyse website SEO performance and generate improvement recommendations.
 ## Tech Stack
 - Python / JavaScript
 - Requests / Puppeteer
+
+## Usage
+```bash
+git clone https://github.com/sergeambeshi-bit/seo-audit-tool.git
+cd seo-audit-tool
+python seo_audit.py
